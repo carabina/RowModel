@@ -4,7 +4,7 @@ Pod::Spec.new do |s|
   s.version          = '0.1.0'
   s.summary          = 'Build simple CRUD iOS apps in 10 minutes or less.'
   s.homepage         = 'https://github.com/istx25/RowModel'
-  s.license          = { :type => 'MIT', :file => 'LICENSE' }
+  s.license          = { :type => 'MIT', :file => 'LICENSE.txt' }
   s.author           = { 'Willow Alexandra' => 'willow.alexandra@icloud.com' }
   s.source           = { :git => 'https://github.com/istx25/RowModel.git', :tag => s.version.to_s }
   s.social_media_url = 'https://twitter.com/istx25'
